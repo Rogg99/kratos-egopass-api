@@ -1,0 +1,6 @@
+version: "3"
+services:
+  server:
+    ports:
+      - "7899:7899"
+    container_name: app
